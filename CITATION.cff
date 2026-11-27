@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Certified data-driven fault detection using behavioral uncertainty quantification"
+authors:
+  - family-names: Giannini
+    given-names: Francesco
+    orcid: "https://orcid.org/0000-0001-5892-2049"
+  - family-names: Markovsky
+    given-names: Ivan
+    orcid: "https://orcid.org/0000-0001-9976-9685"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Certified data-driven fault detection using behavioral uncertainty quantification"
+  authors:
+    - family-names: Giannini
+      given-names: Francesco
+      orcid: "https://orcid.org/0000-0001-5892-2049"
+    - family-names: Markovsky
+      given-names: Ivan
+      orcid: "https://orcid.org/0000-0001-9976-9685"
+  year: 2026
+  status: submitted
